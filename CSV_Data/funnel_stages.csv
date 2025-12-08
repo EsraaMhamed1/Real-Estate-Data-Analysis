@@ -1,0 +1,7 @@
+funnel_stage_id,stage_name
+1,New
+2,Contacted
+3,Visited
+4,Negotiation
+5,Closed-Won
+6,Closed-Lost
